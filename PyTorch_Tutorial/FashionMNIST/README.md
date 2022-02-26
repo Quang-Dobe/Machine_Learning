@@ -1,9 +1,9 @@
 ## In this, I have some models for training and testing on FashionMNIST dataset
 FashionMNIST_1_Tutorial : Flatten image to vector and put it into a Neural Network which just have Linear and ReLU layers
 
-- Accuracy on training_data: 91.08 %
+- Accuracy on training_data: 80.37 %
 
-- Accuracy on testing_data: ___
+- Accuracy on testing_data: 79.19 %
 
 FashionMNIST_2_Tutorial : Using some kernel for extracting features from image by using Conv2d, ReLU and MaxPooling. Then Flatten features to a vector and feed-forward in a simple Linear-ReLU model
 
