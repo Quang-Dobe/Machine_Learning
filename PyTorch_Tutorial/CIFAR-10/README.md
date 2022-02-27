@@ -7,6 +7,6 @@ CIFAR10_2_Tutorial: CNN model with 5 stage
 - Accuracy on training_data: 91.35 %
 - Accuracy on testing_data: 78.81 %
 
-### Go on: CIFAR10_2_Tutorial, CIFAR10_3_Tutorial,...
+### Go on: CIFAR10_3_Tutorial, CIFAR10_4_Tutorial,...
 
 ## I hope I will create more model to improve accuracy on testing_data about 80%
