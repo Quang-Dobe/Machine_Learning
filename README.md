@@ -1,2 +1,2 @@
-# Just4Test
-This response is just used for testing
+# Repo for studying
+This response is just used for studying
